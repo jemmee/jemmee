@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Blog Posts
+- [Rebuilding Bloombase Data-at-Rest Security with NVIDIA DPUs and GPUs](https://bloombase.medium.com/rebuilding-bloombase-data-at-rest-security-with-nvidia-dpus-and-gpus-a8101d54f881)
+- [What Builds the Most Secure Next-Gen Datacenter](https://jemmee.medium.com/what-builds-the-most-secure-next-gen-datacenter-f587115522b4)
+- [Open Data Security for Open Virtual Data Center and Cloud](https://jemmee.medium.com/open-data-security-for-open-virtual-data-center-and-cloud-a1c0c221483f)
