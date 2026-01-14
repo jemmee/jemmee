@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ### Blog Posts
 - [Rebuilding Bloombase Data-at-Rest Security with NVIDIA DPUs and GPUs](https://bloombase.medium.com/rebuilding-bloombase-data-at-rest-security-with-nvidia-dpus-and-gpus-a8101d54f881)
-- [What Builds the Most Secure Next-Gen Datacenter](https://jemmee.medium.com/what-builds-the-most-secure-next-gen-datacenter-f587115522b4)
-- [Open Data Security for Open Virtual Data Center and Cloud](https://jemmee.medium.com/open-data-security-for-open-virtual-data-center-and-cloud-a1c0c221483f)
+- [What Builds the Most Secure Next-Gen Datacenter](https://www.entrust.com/blog/2019/10/guest-blog-what-builds-the-most-secure-next-gen-datacenter)
+- [Open Data Security for Open Virtual Data Center and Cloud](https://openvirtualizationalliance.org/news-events/blogs/2013/03/open-data-security-open-virtual-data-center-and-cloud)
 
 ### Publications
 - [Handbook of optical coherence tomography](https://catalog.nlm.nih.gov/permalink/01NLM_INST/1o1phhn/alma9912064793406676)
