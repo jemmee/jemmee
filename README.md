@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 ### Publications
 - [Handbook of optical coherence tomography](https://catalog.nlm.nih.gov/permalink/01NLM_INST/1o1phhn/alma9912064793406676)
-- [Phase-domain processing of optical coherence tomography images](https://www.spiedigitallibrary.org/journals/journal-of-biomedical-optics/volume-4/issue-01/0000/Phase-domain-processing-of-optical-coherence-tomography-images/10.1117/1.429942.full)
+- [Phase-domain processing of optical coherence tomography images](https://pubmed.ncbi.nlm.nih.gov/23015177)
 - [Adaptive beamforming for optical coherence tomography of biological tissues](https://ieeexplore.ieee.org/document/745582)
 - [Digital processing of noisy OCT signals in phase space](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/3251/0000/Digital-processing-of-noisy-OCT-signals-in-phase-space/10.1117/12.306050.short)
