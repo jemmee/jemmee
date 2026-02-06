@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Jemmee.
+## Hi there 👋, I'm Kin.
 
 <!--
 **jemmee/jemmee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
